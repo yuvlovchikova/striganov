@@ -1,0 +1,32 @@
+.btn_description,
+.btn_application {
+  border-width: 1px;
+}
+
+.btn_description:hover {
+  border          : 1px solid #000000;
+  background-color: #000 !important;
+}
+
+.btn_application:hover {
+  border: 1px solid #000000;
+}
+
+
+
+.button_serv,
+.button_serv:hover {
+  display         : inline-block;
+  color           : #000000;
+  border          : 1px solid #000000;
+  border-radius   : 5px;
+  height          : 35px;
+  font-size       : 13px;
+  padding-inline  : 15px;
+  background-color: #fff;
+}
+
+.button_serv:hover {
+  color           : #fff;
+  background-color: #000;
+}

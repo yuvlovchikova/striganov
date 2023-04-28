@@ -1,0 +1,13 @@
+.btn_description,
+.btn_application {
+  border-width: 1px;
+}
+
+.btn_description:hover {
+  border          : 1px solid #000000;
+  background-color: #000 !important;
+}
+
+.btn_application:hover {
+  border: 1px solid #000000;
+}

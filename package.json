@@ -1,0 +1,29 @@
+{
+  "name": "jul",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@emailjs/browser": "^3.11.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/montserrat": "^4.5.14",
+    "emailjs": "^4.0.1",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "framer-motion": "^10.12.4",
+    "graphql": "^16.6.0",
+    "graphql-request": "^6.0.0",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-datocms": "^4.0.10",
+    "react-dom": "18.2.0",
+    "swiper": "^9.2.3"
+  }
+}
